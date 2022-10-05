@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\SEMANA10-CPT-HP-I\ProyectosSesion10\ProyectoLibreriadeClases\bin\Debug\ProyectoLibreriadeClases.dll
+C:\Users\Administrator\Desktop\SEMANA10-CPT-HP-I\ProyectosSesion10\ProyectoLibreriadeClases\bin\Debug\ProyectoLibreriadeClases.pdb
+C:\Users\Administrator\Desktop\SEMANA10-CPT-HP-I\ProyectosSesion10\ProyectoLibreriadeClases\obj\Debug\ProyectoLibreriadeClases.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SEMANA10-CPT-HP-I\ProyectosSesion10\ProyectoLibreriadeClases\obj\Debug\ProyectoLibreriadeClases.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SEMANA10-CPT-HP-I\ProyectosSesion10\ProyectoLibreriadeClases\obj\Debug\ProyectoLibreriadeClases.dll
+C:\Users\Administrator\Desktop\SEMANA10-CPT-HP-I\ProyectosSesion10\ProyectoLibreriadeClases\obj\Debug\ProyectoLibreriadeClases.pdb
+C:\Users\Administrator\Desktop\SEMANA10-11-CPT-HP-I\ProyectosSesion10\ProyectoLibreriadeClases\bin\Debug\ProyectoLibreriadeClases.dll
+C:\Users\Administrator\Desktop\SEMANA10-11-CPT-HP-I\ProyectosSesion10\ProyectoLibreriadeClases\bin\Debug\ProyectoLibreriadeClases.pdb
+C:\Users\Administrator\Desktop\SEMANA10-11-CPT-HP-I\ProyectosSesion10\ProyectoLibreriadeClases\obj\Debug\ProyectoLibreriadeClases.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SEMANA10-11-CPT-HP-I\ProyectosSesion10\ProyectoLibreriadeClases\obj\Debug\ProyectoLibreriadeClases.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SEMANA10-11-CPT-HP-I\ProyectosSesion10\ProyectoLibreriadeClases\obj\Debug\ProyectoLibreriadeClases.dll
+C:\Users\Administrator\Desktop\SEMANA10-11-CPT-HP-I\ProyectosSesion10\ProyectoLibreriadeClases\obj\Debug\ProyectoLibreriadeClases.pdb
